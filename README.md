@@ -1,5 +1,3 @@
-<h1 align="center">Eduardo Bryan</h1>
-
 <p align="center">
   Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
 </p>
@@ -23,18 +21,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/eduardobbr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
 </div>
 
@@ -44,7 +45,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -52,6 +53,6 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
