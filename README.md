@@ -32,6 +32,7 @@
 <br>
 
 <div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=radical&hide_border=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
 </div>
 
