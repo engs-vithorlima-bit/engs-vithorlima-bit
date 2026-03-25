@@ -28,7 +28,7 @@
     </a>
 </div>
 
-  <div>
+<!-- <div>
     <h1>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
 </h1>
@@ -39,7 +39,7 @@
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=eduardobbr&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
-</p>
+</p> -->
 <div align="center">
         
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
