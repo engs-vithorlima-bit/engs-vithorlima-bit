@@ -32,10 +32,6 @@
 
 <br>
 
-<h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; Contribution Snake
-</h1>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake-dark.svg" />
