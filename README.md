@@ -26,14 +26,12 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 <br>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=radical&hide_border=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
 </div>
 
