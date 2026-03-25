@@ -1,6 +1,7 @@
 <!-- <p align="center">
   <img src="./assets/banner.png" alt="banner profile" />
 </p> -->
+
 <p align="center">
 	<a href="mailto:eduardomj.bryan@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -12,37 +13,45 @@
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 	</a>
 	<a href="https://www.instagram.com/ed_bryan_rbk" target="_blank">
-		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 	</a>
-
 </p>
+
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
 
 <h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Status
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; Status
 </h1>
+
 <div align="center">
-    <a href="https://github.com/eduardobbr">
-      	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=radical" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    </a>
+  <a href="https://github.com/eduardobbr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobbr&hide=jupyter%20notebook&layout=compact&langs_count=7&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
 </div>
 
-<!-- <div>
-    <h1>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
+<br>
+
+<h1>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp; Contribution Snake
 </h1>
 
-
-<p align="center">
-	
- <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=eduardobbr&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
- </a>
-</p> -->
 <div align="center">
-        
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr-main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr-main/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardobbr/eduardobbr-main/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
