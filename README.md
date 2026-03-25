@@ -8,7 +8,7 @@
 	<a href="https://www.linkedin.com/in/eduardo-bryan-054190348/">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="https://api.whatsapp.com/send?phone=5511986797822&text=">
+	<a href="https://api.whatsapp.com/send?phone=5541984880071&text=">
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 	</a>
 	<a href="https://www.instagram.com/ed_bryan_rbk" target="_blank">
