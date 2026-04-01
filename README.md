@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-	<a href="gabrielvithor838@gmail.com">
+	<a href="mailto:gabrielvithor838@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BESGFOzpbQnKKFC1Agtr6HA%3D%3D">
