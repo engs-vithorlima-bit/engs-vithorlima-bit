@@ -1,26 +1,26 @@
-<h2 align="center">Eduardo Bryan</h2>
+<h2 align="center">Vithor Gabriel*</h2>
 
 <p align="center">
-  Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
+   Estudante  de engenharia de software focando em ser full steck 
 </p>
 
 <p align="center">
-  Software Engineer | PHP • React • NodeJS • Django • SQL • TypeScript
+  Software Engineer | Foco em - Html - Css - javaScript
 </p>
 
 ---
 
 <p align="center">
-	<a href="mailto:eduardomj.bryan@gmail.com">
+	<a href="gabrielvithor838@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/eduardo-bryan-054190348/">
+	<a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BESGFOzpbQnKKFC1Agtr6HA%3D%3D">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://api.whatsapp.com/send?phone=5541984880071">
+	<a href="https://api.whatsapp.com/send?phone=42991520580">
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/ed_bryan_rbk">
+	<a href="https://www.instagram.com/vithor_vitinho">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 </p>
@@ -30,7 +30,7 @@
 <h3 align="center">Stack Principal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,react,nodejs,django,typescript,js,html,css,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git" />
 </p>
 
 ---
@@ -38,12 +38,10 @@
 <h3 align="center">Tecnologias</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
 
@@ -52,21 +50,21 @@
 <h3 align="center">Atividade</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eduardobbr&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=engs-vithorlima-bit&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/eduardobbr/eduardobbr/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engs-vithorlima-bit/engs-vithorlima-bit/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engs-vithorlima-bit/engs-vithorlima-bit/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/engs-vithorlima-bit/engs-vithorlima-bit/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engs-vithorlima-bit&theme=tokyo-night&hide_border=true" />
 </div>
