@@ -42,18 +42,6 @@ Focado em me tornar um engenheiro de software de alto nível
 
 ---
 
-<h3 align="center">Tecnologias</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
-
----
-
 <h3 align="center">Atividade</h3>
 
 <div align="center">
