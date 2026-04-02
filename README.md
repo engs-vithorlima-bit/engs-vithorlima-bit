@@ -1,17 +1,23 @@
 <h2 align="center">Vithor Gabriel</h2>
 
 <p align="center">
-   Estudante  de engenharia de software focando em ser full steck 
+   Estudante de Engenharia de Software  
+Construindo base sólida em lógica, sistemas e desenvolvimento web  
+Focado em me tornar um engenheiro de software de alto nível
 </p>
 
 <p align="center">
-  Software Engineer | Foco em - Html - Css - javaScript
+  Software Engineer
+-Estruturas fundamentais da Web (HTML, CSS, JavaScript, C++)
+- Lógica de programação
+- Versionamento com Git e GitHub
+- Linux como ambiente de desenvolvimento
 </p>
 
 ---
 
 <p align="center">
-	<a href="mailto:gabrielvithor838@gmail.com">
+	<a href="mailto:gabrielvithor838@gmail.com?subject=Contato&body=Olá%20vi%20seu%20perfil">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BESGFOzpbQnKKFC1Agtr6HA%3D%3D">
