@@ -9,7 +9,7 @@ Focado em me tornar um engenheiro de software de alto nível
 <p align="center">
   Foco em:
 	
--Estruturas fundamentais da Web (HTML, CSS, JavaScript, C++)
+- Estruturas fundamentais da Web (HTML, CSS, JavaScript, C++)
 - Lógica de programação
 - Versionamento com Git e GitHub
 - Linux como ambiente de desenvolvimento
