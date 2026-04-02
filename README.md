@@ -34,7 +34,7 @@ Focado em me tornar um engenheiro de software de alto nível
 
 ---
 
-<h3 align="center">Stack Principal</h3>
+<h3 align="center">fundamentos em desenvolvimento</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,git" />
