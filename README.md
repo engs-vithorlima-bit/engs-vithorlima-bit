@@ -7,7 +7,7 @@ Focado em me tornar um engenheiro de software de alto nível
 </p>
 
 <p align="center">
-  Software Engineer
+  Foco em:
 -Estruturas fundamentais da Web (HTML, CSS, JavaScript, C++)
 - Lógica de programação
 - Versionamento com Git e GitHub
