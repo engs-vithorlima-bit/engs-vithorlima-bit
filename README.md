@@ -45,20 +45,22 @@ Focado em me tornar um engenheiro de software de alto nível
 <h3 align="center">Atividade</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=engs-vithorlima-bit&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vithor-gabriel&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vithor-gabriel&theme=tokyonight" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engs-vithorlima-bit/engs-vithorlima-bit/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engs-vithorlima-bit/engs-vithorlima-bit/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vithor-gabriel/vithor-gabriel/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vithor-gabriel/vithor-gabriel/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engs-vithorlima-bit&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vithor-gabriel&theme=tokyo-night&hide_border=true" />
 </div>
